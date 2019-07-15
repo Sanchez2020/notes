@@ -43,6 +43,14 @@ Personal study notes.
 
 ---
 
+<p align="center">
+  <img width="780" src="./graph&network/GraphNetwork.png">
+</p>
+
+主要介绍图神经网络，模型详细笔记有点难产，希望自己可以写的清楚明白。
+
+---
+
 最近在找工作，更笔记的时间少。┐(ﾟ～ﾟ)┌ 
 
 如果有内推，欢迎联系我！

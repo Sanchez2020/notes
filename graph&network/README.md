@@ -11,3 +11,8 @@
 - 图神经网络必读论文 - https://github.com/thunlp/GNNPapers
 - 宝藏大佬Benedek Rozemberczki - https://github.com/benedekrozemberczki
 
+---
+
+<p align="center">
+  <img width="780" src="GraphNetwork.png">
+</p>
